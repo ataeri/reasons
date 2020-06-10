@@ -8,13 +8,13 @@ var firstPhrase = [
 ]
 
 var connecting = [
-    "so much",
-    "extremely",
-    "so so so so",
-    "so darn",
+    "so much ",
+    "extremely ",
+    "so so so so ",
+    "so darn ",
     "",
-    "超",
-    "すごく",
+    "超 ",
+    "すごく ",
 ]
 
 var secondPhrase = [
