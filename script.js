@@ -12,7 +12,9 @@ var connecting = [
     "extremely",
     "so so so so",
     "so darn",
-    ""
+    "",
+    "超",
+    "すごく",
 ]
 
 var secondPhrase = [
@@ -20,6 +22,11 @@ var secondPhrase = [
     "I can beat you in pokemon",
     "I love cooking with you",
     "なでなでしてくれるから",
+    "エリちゃん凄いから",
+    "ビビちゃんだから",
+    "一緒にテレビ見てくれるから",
+    "エリちゃんといる時落ちずくから",
+    "心がいい",
 ]
 
 var adjective = [
@@ -31,6 +38,10 @@ var adjective = [
     "hardworking",
     "a perfectionist",
     "overthinker/overlover",
+    "天才",
+    "美人",
+    "可愛い",
+    "優しい",
 ]
 
 
